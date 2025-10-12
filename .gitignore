@@ -1,0 +1,12 @@
+.cache/
+.local/
+.replit
+contact_submissions.log
+*.log
+vendor/
+composer.phar
+composer.lock
+.DS_Store
+.env
+.vscode/
+.idea/

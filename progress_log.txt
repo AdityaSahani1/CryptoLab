@@ -1,0 +1,1 @@
+Initialized base structure for cryptography web app
