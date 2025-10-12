@@ -1,2 +1,3 @@
 Initialized base structure for cryptography web app
 Added core encryption modules (Caesar, Vigenère, Base64)
+Implemented decryption functionality with validation
