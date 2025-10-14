@@ -1,6 +1,0 @@
-Initialized base structure for cryptography web app
-Added core encryption modules (Caesar, Vigenère, Base64)
-Implemented decryption functionality with validation
-Added popup modal to display algorithm code with copy feature
-Integrated multi-language support in code modal and refined UI layout
-Final polish: dropdown-based technique selector and UI responsiveness
